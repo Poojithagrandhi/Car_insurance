@@ -1,0 +1,14 @@
+SMAP
+employee_jsp.java
+JSP
+*S JSP
+*F
++ 0 employee.jsp
+JSP/employee.jsp
+*L
+5,30:48
+35,17:79
+51,5:96
+56,4:102
+59,66:106
+*E
